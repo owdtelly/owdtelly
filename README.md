@@ -10,14 +10,15 @@ Welcome to my Data Science and Data Analytics repo! This repo will cover project
 
 Here's the technology stack powering this repository and what I'm working with day to day:
 
-- **SQL** 🗄️
-- **Python** 🐍
-- **Power BI** 📊
-- **Azure Functions** ☁️
+- **Python** ![image](https://github.com/owdtelly/owdtelly/assets/15112834/c9647bed-10cb-4305-b770-9c2a785a6d2f)
+- **SQL** 🗄![image](https://github.com/owdtelly/owdtelly/assets/15112834/ee04c4ca-ae42-49f7-8434-273575d472b3)
+- **Power BI** ![image](https://github.com/owdtelly/owdtelly/assets/15112834/cb057d38-d50f-4beb-8fbc-3b12da403f03)
+- **Azure Functions** ![image](https://github.com/owdtelly/owdtelly/assets/15112834/7690c3e6-e55d-479b-84d7-9ecf72db4501)
 - **Scikit Learn** 🤖
-- **SQLAlchemy** 🧩
+- **SQLAlchemy** ![image](https://github.com/owdtelly/owdtelly/assets/15112834/7c2dd00c-f1d1-4385-8bac-a74e5576a709)
 - **Matplotlib** 📈
-- **FastAPI** 🚀
+- **FastAPI** ![image](https://github.com/owdtelly/owdtelly/assets/15112834/1642291d-a5da-4843-9f11-ce698af7f914)
+
 
 ## Key Areas of Focus
 
